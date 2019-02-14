@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="74ff4891-3d08-4d51-9527-7a8889be0d7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/dao2/CityMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/domain2/City.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/mappers/CityMapper.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,7 +32,7 @@
           <entry key="java" value="7" />
           <entry key="md" value="2" />
           <entry key="properties" value="3" />
-          <entry key="xml" value="10" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -39,7 +40,7 @@
           <entry key="JAVA" value="7" />
           <entry key="Markdown" value="2" />
           <entry key="Properties" value="3" />
-          <entry key="XML" value="10" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,7 +49,7 @@
           <entry key="md" value="41" />
           <entry key="properties" value="2" />
           <entry key="txt" value="6" />
-          <entry key="xml" value="103" />
+          <entry key="xml" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -58,7 +59,7 @@
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Properties" value="2" />
           <entry key="SQL" value="1" />
-          <entry key="XML" value="102" />
+          <entry key="XML" value="123" />
         </counts>
       </usages-collector>
     </session>
@@ -92,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+            <state relative-caret-position="866">
+              <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/lcw/mapping/MessgaeMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -123,25 +133,7 @@
         <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/service/CityService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/domain2/City.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/dao2/CityMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -183,8 +175,8 @@
         <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/GraphQLTest.java" />
         <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/application2.properties" />
         <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/mappers/CityMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml" />
       </list>
     </option>
   </component>
@@ -252,8 +244,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="23" />
+    <option name="x" value="136" />
+    <option name="y" value="32" />
     <option name="width" value="1314" />
     <option name="height" value="825" />
   </component>
@@ -332,6 +324,37 @@
               <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
               <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcw" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcw" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lcw" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -379,27 +402,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="dao2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="domain2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
@@ -439,7 +442,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550116566942" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550126658043" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -492,7 +495,7 @@
       <updated>1550041923705</updated>
       <workItem from="1550041929294" duration="3211000" />
       <workItem from="1550046102611" duration="5082000" />
-      <workItem from="1550110667488" duration="3904000" />
+      <workItem from="1550110667488" duration="5293000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1550043890578</created>
@@ -564,17 +567,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550112096338</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <created>1550116698971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1550116698971</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12197000" />
+    <option name="totallyTimeSpent" value="13586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="23" width="1314" height="825" extended-state="0" />
+    <frame x="136" y="32" width="1314" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19496855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19496855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -584,7 +594,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1814461" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.098226465" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,7 +679,7 @@
     <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/service/CityService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -720,8 +730,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+        <state relative-caret-position="866">
+          <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/lcw/mapping/MessgaeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
