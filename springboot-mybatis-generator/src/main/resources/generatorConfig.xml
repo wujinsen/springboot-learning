@@ -27,9 +27,6 @@
         <property name="javaFormatter" value="org.mybatis.generator.api.dom.DefaultJavaFormatter"/>
         <!-- 格式化XML代码 -->
         <property name="xmlFormatter" value="org.mybatis.generator.api.dom.DefaultXmlFormatter"/>
-        <!--<plugin type="org.mybatis.generator.plugins.SerializablePlugin" />-->
-
-        <!--<plugin type="org.mybatis.generator.plugins.ToStringPlugin" />-->
 
         <!-- 注释 -->
         <commentGenerator >
@@ -67,7 +64,7 @@
                selectByExampleQueryId="false">
             <property name="useActualColumnNames" value="false" />
             <!-- 数据库表主键 -->
-            <generatedKey column="id" sqlStatement="Mysql" identity="true" />
+            <!--<generatedKey column="id" sqlStatement="Mysql" identity="true" />-->
         </table>
     </context>
 </generatorConfiguration>
