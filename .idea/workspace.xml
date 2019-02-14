@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ff4891-3d08-4d51-9527-7a8889be0d7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot-swagger/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/application2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/controller/CityRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/controller/CityRestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/dao/CityDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/dao/CityDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/domain/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/domain/City.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/service/CityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/service/CityService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/service/impl/CityServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/cn/springboot/service/impl/CityServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/mappers/CityMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/mappers/FdtradeItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/mybatisGeneratorinit.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/service/UserServiceImpl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/service/UserServiceImpl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/service/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -139,11 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -211,7 +195,7 @@
         <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -219,11 +203,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/service/UserServiceTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="80">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -279,7 +263,6 @@
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/service/UserService.java" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/service/UserServiceTest.java" />
         <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis-generator/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/Application.java" />
@@ -288,6 +271,8 @@
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/resources/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java" />
+        <option value="$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java" />
       </list>
     </option>
   </component>
@@ -618,7 +603,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="swagger" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -629,7 +614,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550138473454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550139051720" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -661,7 +646,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserServiceTest.userServiceTest">
+  <component name="RunManager" selected="JUnit.UserServiceTest.userServiceTest (1)">
+    <configuration name="UserServiceTest.userServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-swagger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.springboot.swagger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.springboot.swagger" />
+      <option name="MAIN_CLASS_NAME" value="cn.springboot.swagger.UserServiceTest" />
+      <option name="METHOD_NAME" value="userServiceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserServiceTest.userServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-swagger" />
       <extension name="coverage">
@@ -696,9 +697,11 @@
       <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Spring Boot.Application (1)" />
       <item itemvalue="JUnit.UserServiceTest.userServiceTest" />
+      <item itemvalue="JUnit.UserServiceTest.userServiceTest (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserServiceTest.userServiceTest (1)" />
         <item itemvalue="JUnit.UserServiceTest.userServiceTest" />
       </list>
     </recent_temporary>
@@ -715,7 +718,7 @@
       <updated>1550041923705</updated>
       <workItem from="1550041929294" duration="3211000" />
       <workItem from="1550046102611" duration="5082000" />
-      <workItem from="1550110667488" duration="13949000" />
+      <workItem from="1550110667488" duration="14750000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1550043890578</created>
@@ -808,7 +811,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550137178427</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit">
+      <created>1550138517969</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1550138517969</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -836,15 +846,20 @@
     <history-entry file="UserServiceTest_userServiceTest - 2019.02.14 at 17h 59m 29s.xml">
       <configuration name="UserServiceTest.userServiceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserServiceTest_userServiceTest - 2019.02.14 at 18h 06m 09s.xml">
+      <configuration name="UserServiceTest.userServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_userServiceTest_(1) - 2019.02.14 at 18h 10m 46s.xml">
+      <configuration name="UserServiceTest.userServiceTest (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22242000" />
+    <option name="totallyTimeSpent" value="23043000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="23" width="1305" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="135" y="23" width="1305" height="835" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19635788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19635788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -854,7 +869,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4324693" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39569312" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1029,26 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/service/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1125,8 +1120,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

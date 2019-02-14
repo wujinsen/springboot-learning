@@ -1,4 +1,4 @@
-package cn.springboot.service;
+package cn.springboot.swagger;
 
 
 import cn.springboot.swagger.Application;
@@ -15,7 +15,7 @@ import javax.annotation.Resource;
 
 @RunWith(SpringRunner.class)
 @Slf4j
-@SpringBootTest(classes = Application.class)
+@SpringBootTest
 public class UserServiceTest {
 
     @Resource
