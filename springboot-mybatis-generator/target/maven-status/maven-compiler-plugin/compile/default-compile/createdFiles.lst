@@ -1,0 +1,6 @@
+cn/springboot/Application.class
+cn/springboot/controller/CityRestController.class
+cn/springboot/service/impl/CityServiceImpl.class
+cn/springboot/service/CityService.class
+cn/springboot/dao/CityDao.class
+cn/springboot/domain/City.class
