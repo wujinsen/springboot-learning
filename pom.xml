@@ -12,6 +12,7 @@
     <modules>
         <!-- mybatis generator-->
         <module>springboot-mybatis-generator</module>
+        <module>springboot-swagger</module>
     </modules>
 
 </project>
