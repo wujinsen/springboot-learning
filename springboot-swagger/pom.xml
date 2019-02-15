@@ -15,7 +15,7 @@
     </parent>
 
     <properties>
-        <swagger-ui>2.8.0</swagger-ui>
+        <swagger-ui>2.9.2</swagger-ui>
         <mybatis-spring-boot>1.2.0</mybatis-spring-boot>
         <mysql-connector>5.1.39</mysql-connector>
     </properties>

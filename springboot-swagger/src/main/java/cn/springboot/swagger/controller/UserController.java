@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by shaomaolin on 2018/11/2.
+ *
  */
 @Api(value = "用户接口")
 @RestController
@@ -28,7 +28,7 @@ public class UserController {
     private UserService userService;
 
     @ApiOperation(value = "获取用户", notes = "根据id查询用户信息")
-    @ApiImplicitParam(name = "id", value = "用户id", required = true, dataType = "Integer")
+    @ApiImplicitParam(name = "id", value = "用户id", required = true, dataType = "int")
     @ResponseBody
     @GetMapping(value = "/queryUser")
     public String queryRuleUser(int id) {
