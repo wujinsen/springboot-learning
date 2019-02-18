@@ -6,9 +6,11 @@ import com.google.common.base.Preconditions;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiParam;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import javax.validation.Valid;
 
 /**
  *
@@ -22,7 +24,7 @@ public class UserController {
     @Autowired
     private UserService userService;
 
-    @ApiOperation(value = "获取用户", notes = "根据id查询用户信息")
+    @ApiOperation(value = "查询用户", notes = "根据id查询用户信息")
     @ApiImplicitParam(name = "id", value = "用户id", required = true, dataType = "string")
     @ResponseBody
     @GetMapping(value = "/queryUser")
@@ -40,9 +42,9 @@ public class UserController {
     @ApiOperation(value="添加用户信息", notes = "添加用户信息")
     @ApiImplicitParam(name="user", value="User", required = true, dataType = "User")
     @PostMapping("/addUser")
-    public Object addUser(@RequestBody User user){
+    public Object addUser(@RequestBody @Valid @ApiParam(value = "用户传参", required = true) User user){
         log.info("add user:{}", user);
-        return "success";
+        return user;
     }
 
 }

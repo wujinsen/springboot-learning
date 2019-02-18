@@ -72,6 +72,12 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>${mysql-connector}</version>
         </dependency>
+        <!-- oval -->
+        <dependency>
+            <groupId>net.sf.oval</groupId>
+            <artifactId>oval</artifactId>
+            <version>1.86</version>
+        </dependency>
     </dependencies>
 
 </project>
