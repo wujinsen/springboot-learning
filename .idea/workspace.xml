@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ff4891-3d08-4d51-9527-7a8889be0d7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot-squirrel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-squirrel/springboot-squirrel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-squirrel/src/test/java/QuickStartSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-generator/target/classes/generatorConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-swagger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springboot-mybatis-generator/target/" />
     <ignored path="$PROJECT_DIR$/springboot-swagger/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-squirrel/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,49 +29,52 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="12" />
-          <entry key="java" value="34" />
+          <entry key="class" value="13" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="41" />
           <entry key="json" value="1" />
           <entry key="md" value="2" />
           <entry key="patch" value="1" />
           <entry key="properties" value="6" />
-          <entry key="xml" value="23" />
+          <entry key="xml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="12" />
-          <entry key="JAVA" value="34" />
+          <entry key="CLASS" value="13" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="41" />
           <entry key="JSON" value="1" />
           <entry key="Markdown" value="2" />
           <entry key="PATCH" value="1" />
           <entry key="Properties" value="6" />
-          <entry key="XML" value="23" />
+          <entry key="XML" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="781" />
+          <entry key="java" value="1674" />
           <entry key="md" value="41" />
           <entry key="properties" value="154" />
           <entry key="txt" value="6" />
-          <entry key="xml" value="252" />
+          <entry key="xml" value="268" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="781" />
+          <entry key="JAVA" value="1674" />
           <entry key="Markdown" value="41" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Properties" value="154" />
           <entry key="SQL" value="1" />
-          <entry key="XML" value="251" />
+          <entry key="XML" value="267" />
         </counts>
       </usages-collector>
     </session>
@@ -82,20 +90,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springboot-swagger/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/CityRestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-87">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="680">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,18 +142,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/net/sf/oval/oval/1.86/oval-1.86.jar!/net/sf/oval/constraint/NotBlank.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="204">
               <caret line="14" column="25" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
+            <state relative-caret-position="629">
               <caret line="64" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
@@ -167,12 +184,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/META-INF/spring-configuration-metadata.json">
+        <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="7804" column="47" selection-start-line="7804" selection-start-column="24" selection-end-line="7804" selection-end-column="47" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-squirrel/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-squirrel/src/test/java/QuickStartSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1.jar!/com/google/common/base/Preconditions.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-squirrel/springboot-squirrel.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -245,10 +297,16 @@
         <option value="$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/test.java" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java" />
         <option value="$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/C.java" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/AFactory.java" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/B.java" />
+        <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/test.java" />
+        <option value="$PROJECT_DIR$/springboot-squirrel/src/test/java/QuickStartSample.java" />
+        <option value="$PROJECT_DIR$/springboot-squirrel/pom.xml" />
       </list>
     </option>
   </component>
@@ -275,24 +333,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-learning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springboot-squirrel" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-learning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-mybatis-generator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-swagger" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-swagger" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springboot-squirrel" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -300,10 +345,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="265" />
-    <option name="y" value="23" />
-    <option name="width" value="1175" />
-    <option name="height" value="834" />
+    <option name="x" value="88" />
+    <option name="y" value="25" />
+    <option name="width" value="1245" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -355,8 +400,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -367,292 +410,81 @@
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-squirrel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-squirrel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-squirrel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-squirrel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="UserServiceImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-squirrel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: javax.validation:validation-api:2.0.1.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: com.google.guava:guava:16.0.1" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: javax.validation:validation-api:2.0.1.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="validation-api-2.0.1.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.google.guava:guava:16.0.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-16.0.1.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: javax.validation:validation-api:2.0.1.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="validation-api-2.0.1.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.google.guava:guava:16.0.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-16.0.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sf.oval:oval:1.86" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: com.google.guava:guava:16.0.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-16.0.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sf.oval:oval:1.86" type="70bed36:NamedLibraryElementNode" />
-              <item name="oval-1.86.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sf.oval:oval:1.86" type="70bed36:NamedLibraryElementNode" />
-              <item name="oval-1.86.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oval" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sf.oval:oval:1.86" type="70bed36:NamedLibraryElementNode" />
-              <item name="oval-1.86.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oval" type="462c0819:PsiDirectoryNode" />
-              <item name="constraint" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.google.guava:guava:16.0.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-16.0.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,7 +495,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jinsenwu/idea_project/springboot-learning/springboot-swagger/src/main/java/cn/springboot/swagger/config/SwaggerConfig.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550456038810" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551145355077" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -695,7 +527,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application (2)">
+  <component name="RunManager" selected="Application.QuickStartSample">
+    <configuration name="QuickStartSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickStartSample" />
+      <module name="springboot-squirrel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.springboot.controller.test" />
+      <module name="springboot-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.springboot.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.springboot.swagger.controller.test" />
       <module name="springboot-swagger" />
@@ -719,22 +571,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="cn.springboot.swagger" />
       <option name="MAIN_CLASS_NAME" value="cn.springboot.swagger.UserServiceTest" />
-      <option name="METHOD_NAME" value="userServiceTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest.userServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-swagger" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.springboot.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.springboot.service" />
-      <option name="MAIN_CLASS_NAME" value="cn.springboot.service.UserServiceTest" />
       <option name="METHOD_NAME" value="userServiceTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -771,17 +607,19 @@
     <list>
       <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Spring Boot.Application (1)" />
-      <item itemvalue="JUnit.UserServiceTest.userServiceTest" />
       <item itemvalue="JUnit.UserServiceTest.userServiceTest (1)" />
       <item itemvalue="Spring Boot.Application (2)" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.QuickStartSample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickStartSample" />
+        <item itemvalue="Application.test (1)" />
         <item itemvalue="Spring Boot.Application (2)" />
         <item itemvalue="Application.test" />
         <item itemvalue="JUnit.UserServiceTest.userServiceTest (1)" />
-        <item itemvalue="JUnit.UserServiceTest.userServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -797,7 +635,8 @@
       <updated>1550041923705</updated>
       <workItem from="1550041929294" duration="3211000" />
       <workItem from="1550046102611" duration="5082000" />
-      <workItem from="1550110667488" duration="35166000" />
+      <workItem from="1550110667488" duration="52024000" />
+      <workItem from="1550660045251" duration="13143000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1550043890578</created>
@@ -918,7 +757,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550205402363</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit">
+      <created>1550456291859</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1550456291859</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -954,12 +800,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43459000" />
+    <option name="totallyTimeSpent" value="73460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="265" y="23" width="1175" height="834" extended-state="0" />
+    <frame x="88" y="25" width="1245" height="831" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21888791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19368246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -969,7 +815,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23584905" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35588634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -977,16 +823,16 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32742155" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32882273" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.29058662" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3166441" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.253365" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.33998337" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -1019,8 +865,6 @@
     <state width="408" height="686" key="Git.Branch.Popup@2880.1800@192dpi" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/GraphQLTest.java" />
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/application2.properties" />
     <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/mybatisGeneratorinit.properties" />
     <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/mappers/FdtradeItemMapper.xml" />
     <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/domain/City.java">
@@ -1030,20 +874,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/domain2/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/dao2/CityMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/domain2/City.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/dao2/CityMapper.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1054,20 +886,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/mappers/CityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/lcw/mapping/MessgaeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/mappers/CityMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/lcw/mapping/MessgaeMapper.xml" />
     <entry file="file://$PROJECT_DIR$/commit.patch">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1096,13 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
@@ -1180,16 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsManager.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1197,35 +1000,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/CityRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7786">
           <caret line="751" column="62" lean-forward="true" selection-start-line="751" selection-start-column="62" selection-end-line="751" selection-end-column="62" />
-          <folding>
-            <element signature="e#21956#21957#0" expanded="true" />
-            <element signature="e#22033#22034#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/META-INF/spring-configuration-metadata.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="7804" column="47" selection-start-line="7804" selection-start-column="24" selection-end-line="7804" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1233,13 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-335">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
@@ -1264,37 +1035,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/test.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/net/sf/oval/oval/1.86/oval-1.86.jar!/net/sf/oval/constraint/NotBlank.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
@@ -1305,13 +1050,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java">
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/AFactory.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/C.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/B.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/test/java/cn/springboot/swagger/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1325,20 +1114,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/CityRestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/java/cn/springboot/swagger/controller/UserController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/META-INF/spring-configuration-metadata.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="248">
+          <caret line="7804" column="47" selection-start-line="7804" selection-start-column="24" selection-end-line="7804" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/cn/springboot/controller/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis-generator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-squirrel/springboot-squirrel.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-squirrel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-squirrel/src/test/java/QuickStartSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-swagger/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1405,7 +1249,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springboot-swagger</last-edited>
+          <last-edited>springboot-squirrel</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

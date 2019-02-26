@@ -13,6 +13,7 @@
         <!-- mybatis generator-->
         <module>springboot-mybatis-generator</module>
         <module>springboot-swagger</module>
+        <module>springboot-squirrel</module>
     </modules>
 
 </project>
