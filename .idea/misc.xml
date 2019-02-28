@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-lambda-leanring/pom.xml" />
       </list>
     </option>
   </component>
